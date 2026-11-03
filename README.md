@@ -14,6 +14,9 @@ Commented a keyword on a reel? Your guide is below.
 | **HOOK** | [Write a hook that shows the result first](hook) | Write 5 opening lines, pick the best one, show the ending first |
 | **CHECK** | [Catch a bad video before it posts](check) | Find frozen screens, dead air and missing sources automatically |
 | **SAFE** | [Keep your automation from leaking or misposting](safe) | Hide your keys, block the wrong account, keep one human switch |
+| **AUTO** | [Send a DM when someone comments a word](auto) | Set up a free tool that answers comments with a DM and your link |
+| **SITE** | [Make a free website for your guides](site) | Turn a folder of text pages into a free website with GitHub Pages |
+| **CLOUD** | [Run an AI task every morning, laptop closed](cloud) | Schedule an AI job in the cloud that follows your rules and fails safe |
 
 ## What things cost
 
