@@ -17,6 +17,7 @@ Commented a keyword on a reel? Your guide is below.
 | **AUTO** | [Send a DM when someone comments a word](auto) | Set up a free tool that answers comments with a DM and your link |
 | **SITE** | [Make a free website for your guides](site) | Turn a folder of text pages into a free website with GitHub Pages |
 | **CLOUD** | [Run an AI task every morning, laptop closed](cloud) | Schedule an AI job in the cloud that follows your rules and fails safe |
+| **JARVIS** | [OpenJarvis: your own Jarvis, on your own computer](jarvis) | Install a free personal AI that runs on your computer, and know its catch |
 
 ## What things cost
 
