@@ -19,6 +19,7 @@ Commented a keyword on a reel? Your guide is below.
 | **CLOUD** | [Run an AI task every morning, laptop closed](cloud) | Schedule an AI job in the cloud that follows your rules and fails safe |
 | **JARVIS** | [OpenJarvis: your own Jarvis, on your own computer](jarvis) | Install a free personal AI that runs on your computer, and know its catch |
 | **CLIP** | [Clip your streams with free AI](clip) | Turn a long stream into vertical clips with captions, free |
+| **GTA** | [Stream GTA 6 with free, live AI subtitles](gta) | Add live AI captions to your OBS stream, free |
 
 ## What things cost
 
