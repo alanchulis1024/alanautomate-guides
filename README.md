@@ -21,6 +21,7 @@ Commented a keyword on a reel? Your guide is below.
 | **CLIP** | [Clip your streams with free AI](clip) | Turn a long stream into vertical clips with captions, free |
 | **GTA** | [Stream GTA 6 with free, live AI subtitles](gta) | Add live AI captions to your OBS stream, free |
 | **HUMAN** | [Make your AI writing sound like you](human) | Spot the five signs of AI writing and rewrite them |
+| **FREE** | [Stop paying for apps that have free twins](free) | Four paid apps and the free twin for each, with the catch |
 
 ## What things cost
 
