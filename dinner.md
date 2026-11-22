@@ -11,7 +11,7 @@ Plan 7 dinners for one week for [number] people, under $50 in total.
 I already have: [list what's in your fridge and cupboard].
 Reuse ingredients across the meals so nothing goes to waste.
 Keep each dinner under 30 minutes. No [anything you don't eat].
-Then give me ONE shopping list for everything I still need, sorted by store aisle,
+Then give me ONE shopping list for everything I still need, grouped by section (produce, dairy, meat...),
 with an estimated price for each item and the total.
 ```
 
