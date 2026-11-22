@@ -22,6 +22,7 @@ Commented a keyword on a reel? Your guide is below.
 | **GTA** | [Stream GTA 6 with free, live AI subtitles](gta) | Add live AI captions to your OBS stream, free |
 | **HUMAN** | [Make your AI writing sound like you](human) | Spot the five signs of AI writing and rewrite them |
 | **FREE** | [Stop paying for apps that have free twins](free) | Four paid apps and the free twin for each, with the catch |
+| **DINNER** | [Plan 7 dinners for $50 with ChatGPT](dinner) | One prompt for a week of cheap dinners and one shopping list |
 
 ## What things cost
 
